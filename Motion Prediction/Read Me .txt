@@ -1,0 +1,5 @@
+This needs:
+1.Open Cv
+2.Numpy
+
+This program detect motion of the green ball using Kalman Algorithm.
